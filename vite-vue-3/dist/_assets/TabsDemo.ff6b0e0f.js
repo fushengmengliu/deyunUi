@@ -1,0 +1,1 @@
+let e=document.createElement("style");e.innerHTML="",document.head.appendChild(e);import{w as a}from"./index.d58998aa.js";var n={name:"TabsDemo"};const t=a("data-v-64bbae31")((function(e,a,n,t,d,o){return null}));n.render=t,n.__scopeId="data-v-64bbae31",n.__file="src/components/TabsDemo.vue";export default n;

@@ -1,0 +1,1 @@
+let e=document.createElement("style");e.innerHTML="",document.head.appendChild(e);import{w as n}from"./index.d58998aa.js";var t={name:"DocDemo"};const o=n("data-v-386bb7bb")((function(e,n,t,o,a,d){return null}));t.render=o,t.__scopeId="data-v-386bb7bb",t.__file="src/components/DocDemo.vue";export default t;

@@ -1,0 +1,1 @@
+let e=document.createElement("style");e.innerHTML="",document.head.appendChild(e);import{w as t}from"./index.d58998aa.js";var n={name:"ButtonDemo"};const o=t("data-v-0b84b036")((function(e,t,n,o,a,d){return null}));n.render=o,n.__scopeId="data-v-0b84b036",n.__file="src/components/ButtonDemo.vue";export default n;

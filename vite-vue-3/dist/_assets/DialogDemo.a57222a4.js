@@ -1,0 +1,1 @@
+let e=document.createElement("style");e.innerHTML="",document.head.appendChild(e);import{w as a}from"./index.d58998aa.js";var n={name:"DialogDemo"};const t=a("data-v-48a107fb")((function(e,a,n,t,o,d){return null}));n.render=t,n.__scopeId="data-v-48a107fb",n.__file="src/components/DialogDemo.vue";export default n;
